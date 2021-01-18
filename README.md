@@ -1,0 +1,3 @@
+# Focusist
+
+Learn to focus on your studies, the hard way...
